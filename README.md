@@ -1,7 +1,5 @@
 # Suit Up! CSS Framework
-
-* **Vai usar JS?**
-  * jQuery ou Vanilla?
+The most awesome CSS framework will have ever seen. It's legen-wait for it-dary!
 
 ## Components
 * Grid
@@ -22,3 +20,12 @@
   * Labels
   * Alerts
   * Tabs
+
+## Interesting Articles
+TODO: Put here interesting articles about creating own CSS framework
+
+*Must read* subjects: [SMACSS](https://smacss.com/), [OOCSS](https://github.com/stubbornella/oocss/wiki/faq), [BEM](http://getbem.com/introduction/)
+
+## TBD
+* **Vai usar JS?**
+  * jQuery ou Vanilla?
