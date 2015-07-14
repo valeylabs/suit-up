@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+html,
+input,
+textarea {
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 16px;
+}
+
+body > header,
+body > main,
+body > footer {
+  padding: 0 10px;
+}
+
+body > main {
+  margin: 0 auto;
+  max-width: 800px;
+  min-height: 200px;
+}
+
+body > footer {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lobster Two', serif;
+}
+
+object {
+  display: block;
+  border: none;
+}
+
+header#main-header {
+  margin-bottom: 3em;
+  min-height: 100%;
+
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+header#main-header h1 {
+  margin-top: -100px;
+  margin-bottom: 0;
+
+  font-size: 5em;
+  font-variant: small-caps;
+}
+
+header#main-header h2 {
+  padding-bottom: 1em;
+  margin-top: 0;
+
+  font-style: italic;
+}
+
+#logo {
+  display: inline-block;
+}
+
